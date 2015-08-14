@@ -1,0 +1,1 @@
+Code based on the 'Getting Started with Entity Framework 6 Code First using MVC 5' Tutorial by Tom Dykstra & Rick Anderson
